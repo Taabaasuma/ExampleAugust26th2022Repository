@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+	<test name="Test cases">
+		<classes>
+			<class name="com.sgtesting.users.Users"></class>
+			<methods>
+				<exclude name="createUser"></exclude>
+			</methods>
+		</classes>
+	</test>
+</suite>
